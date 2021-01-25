@@ -1,0 +1,30 @@
+header {
+    background-color: #326437;
+}
+
+a, h3 {
+    font-size: 30px;
+}
+
+a, h1, h2, h3, h4, a, p {
+    font-family: 'Rancho', cursive;
+}
+
+a, p {
+    color: #ffffff !important;
+}
+
+button {
+    font-family: 'Rancho', cursive !important;
+    font-size: 30px !important;
+    color: #ffffff !important;
+    border-radius: 10px !important;
+    border: 2px solid #0c7c24;
+    background-color: #326437;
+    width: 240px;
+    height: 52px;
+}
+
+footer {
+    background-color: #73E19D;
+}
