@@ -1,5 +1,6 @@
 header {
     background-color: #326437;
+    margin-right: auto;
 }
 
 .logo {
@@ -52,7 +53,8 @@ button {
     background-color: #73E19D;
     position: absolute;
     bottom: 0;
-    width: 98%;
+    width: 100%;
+    margin-right: auto;
 }
 
 #footer > #texto {
