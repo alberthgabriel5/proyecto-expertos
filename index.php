@@ -13,6 +13,11 @@
     <title>Document</title>
 </head>
 
+<style>
+    #mdialTamanio{
+      width: 80% !important;
+    }
+</style>
 <body>
     <header>
         <div class="container">
@@ -21,11 +26,16 @@
                 <div class="col-1">
                     <a>Destinos</a>
                 </div>
+                <div class="col-1">
+                    <a href="#" data-toggle="modal" data-target="#modalDetalleDestino" >Detalle</a>
+                </div>
                 <div class="col-2">
                     <a>Iniciar Sesión</a>
                 </div>
             </div>
         </div>
+
+      
     </header>
     <div class="container">
         <div>
@@ -55,11 +65,13 @@
             </div>
         </div>
     </footer>
+    
 </body>
 <!-- JavaScript Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
-    crossorigin="anonymous"></script>
-
+    crossorigin="anonymous">
+</script>
 
 </html>
+<?php include 'detalle.php';?>

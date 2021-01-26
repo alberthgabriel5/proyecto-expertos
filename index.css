@@ -6,8 +6,9 @@ a, h3 {
     font-size: 30px;
 }
 
-a, h1, h2, h3, h4, a, p {
+a, h1, h2, h3, h4, a, p , label{
     font-family: 'Rancho', cursive;
+    color: #326437;
 }
 
 a, p {
@@ -25,6 +26,23 @@ button {
     height: 52px;
 }
 
+.class-btnCerrar{
+    background-color: #D70A0A;
+    border: 2px solid #D70A0A;
+}
+
 footer {
     background-color: #73E19D;
+}
+
+.class-align-left{
+    text-align: right;
+}
+
+.form-control{
+    width: 504px !important;
+}
+
+.modal-fade{
+    background-color: #F6F6F6;
 }
