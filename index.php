@@ -24,10 +24,10 @@
             <img src="" alt="">
             <div class="row justify-content-end">
                 <div class="col-1">
-                    <a>Destinos</a>
+                    <a href="#" data-toggle="modal" data-target="#modalResultados" >Destinos</a>
                 </div>
                 <div class="col-1">
-                    <a href="#" data-toggle="modal" data-target="#modalDetalleDestino" >Detalle</a>
+                    <a>Detalle</a>
                 </div>
                 <div class="col-2">
                     <a>Iniciar Sesión</a>
@@ -74,4 +74,4 @@
 </script>
 
 </html>
-<?php include 'detalle.php';?>
+<?php include 'resultados.php';?>

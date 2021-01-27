@@ -6,7 +6,7 @@ a, h3 {
     font-size: 30px;
 }
 
-a, h1, h2, h3, h4, a, p , label{
+a, h1, h2, h3, h4, h5, h6, a, p , label{
     font-family: 'Rancho', cursive;
     color: #326437;
 }
@@ -43,6 +43,3 @@ footer {
     width: 504px !important;
 }
 
-.modal-fade{
-    background-color: #F6F6F6;
-}
