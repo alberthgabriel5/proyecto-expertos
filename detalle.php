@@ -34,7 +34,7 @@
                             <h1>Detalle del Destino</h1>
                         </div>
                         <div class="col-6" style="text-align:right">
-                            <a href="#" data-dismiss="modal" ><label style="text-decoration-line: underline;">Volver</label></a>
+                            <a class="refVolver" href="#" data-dismiss="modal" ><label style="text-decoration-line: underline;">Volver</label></a>
                         </div>
                     </div>
                     <div class="container">

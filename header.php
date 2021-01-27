@@ -6,10 +6,10 @@
         <div class="col-6 align-self-center">
             <div class="row justify-content-end">
                 <div class="col-2">
-                    <a>Destinos</a>
+                    <a href="#" data-toggle="modal" data-target="#modalResultados" >Destinos</a>
                 </div>
                 <div class="col-3">
-                    <a>Iniciar Sesión</a>
+                    <a href="#" data-toggle="modal" data-target="#modalLogin" >Iniciar Sesión</a>
                 </div>
             </div>
         </div>
